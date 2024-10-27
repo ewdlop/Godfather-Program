@@ -1,4 +1,5 @@
 # Godfather-Program
+
 Sponsored by Visualutions. LLC
 
 
@@ -6,7 +7,7 @@ A mobile app concept that provides a secure, anonymous platform for users to con
 
 - Anonymous user profiles with encryption
 - AI-powered "Godfather" figure to listen and respond
-- Option for real priests or counselors to participate
+- ~Option for real priests or counselors to participate~
 - Mood tracking and mental health resources
 - Themed interface with classic mafia movie aesthetics
 
